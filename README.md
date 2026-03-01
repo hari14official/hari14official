@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats
 
-### Stars & Streaks
+### Stars
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
@@ -97,13 +97,13 @@
 
 ### Statistics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" width="400" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari14official&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari14official&theme=tokyonight" alt="Commits (UTC)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari14official&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari14official&theme=tokyonight" width="400" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" width="805" />
 </div>
 
 <br/>
@@ -117,7 +117,7 @@
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
