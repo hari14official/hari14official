@@ -25,11 +25,15 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
+  <a href="mailto:hari14official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://discord.com/channels/harikumarm">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="./image_e6af84.png" target="_blank">
+  <a href="https://wa.me/916383220503" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
