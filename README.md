@@ -5,20 +5,21 @@
   Hi, I'm <strong>Hari</strong>
 </h1>
 
-<h3>Cloud Engineer | AWS • Terraform • Kubernetes • Docker</h3>
+<h3>Cloud Architect | MERN • Python • Tailwind.css • React.js</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a Cloud Engineer passionate about designing, building, and maintaining scalable and secure cloud infrastructures. 
-    From automating deployments to optimizing distributed systems, I ensure applications are highly available, resilient, and fast.
+    I'm a Cloud Architect who loves turning ideas into smooth, functional, and visually engaging digital experiences. 
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:hari14official@gmail.com"><img src="https://img.shields.io/badge/📧_hari14official@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Cloud/DevOps)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_INDIA-1e1e2e?style=for-the-badge" />
+    <a href="mailto:hari14official@gmail.com"><img src="https://img.shields.io/badge/📧_HARI14OFFICIAL@GMAIL.COM-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLAB_(WEB_DEVELOPMENT)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_VIGILANTE_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -28,7 +29,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="LINK_TO_YOUR_UPLOADED_QR_IMAGE_HERE">
+  <a href="./image_e6af84.png" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -55,30 +56,30 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Languages & Scripting</h3>
+<h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=python,bash,go,js" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,ts" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>☁️ Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" />
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
 </td>
 
 </tr>
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & CI/CD</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions,jenkins,ansible" />
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman" />
 </td>
 </tr>
 </table>
@@ -86,16 +87,59 @@
 
 ## 📊 GitHub Stats
 
+### Stars
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=hari14official&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
+
+<br/>
+
+### Statistics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" alt="Stats" />
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hari14official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<br/>
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+### 🎵 Now Playing
+<div align="center">
+  <img src="https://open.spotify.com/user/31coo4g6o2e4js4qsxly2vurpx7y?si=d8bcc8593bf34b1b" alt="Spotify Now Playing" />
+</div>
+
+---
 
 ## ❤️ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/hari14official">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
 </p>
 
