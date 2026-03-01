@@ -87,7 +87,7 @@
 
 ## 📊 GitHub Stats
 
-### Stars
+### Stars & Streaks
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
@@ -97,9 +97,13 @@
 
 ### Statistics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" alt="Profile Details" />
-  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" alt="Top Languages by Commit" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari14official&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari14official&theme=tokyonight" alt="Commits (UTC)" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br/>
@@ -129,13 +133,12 @@
 
 <br/>
 
-### 🎵 Now Playing
+### 🎵 Playlist
 <div align="center">
   <img src="./spotify.png" alt="Spotify Playlist" width="600" />
 </div>
 
 ---
-
 
 ## ❤️ Support Me
 
