@@ -5,20 +5,20 @@
   Hi, I'm <strong>Hari</strong>
 </h1>
 
-<h3>Cloud Architect | MERN • Python • Tailwind.css • React.js</h3>
+<h3>Cloud Engineer | AWS • Terraform • Kubernetes • Docker</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a Cloud Architect who loves turning ideas into smooth, functional, and visually engaging digital experiences. 
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a Cloud Engineer passionate about designing, building, and maintaining scalable and secure cloud infrastructures. 
+    From automating deployments to optimizing distributed systems, I ensure applications are highly available, resilient, and fast.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_INDIA-1e1e2e?style=for-the-badge" />
     <a href="mailto:hari14official@gmail.com"><img src="https://img.shields.io/badge/📧_HARI14OFFICIAL@GMAIL.COM-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLAB_(WEB_DEVELOPMENT)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLAB_(CLOUD/DEVOPS)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_VIGILANTE_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -56,30 +56,30 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<h3>💻 Languages & Scripting</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,ts" />
+ <img src="https://skillicons.dev/icons?i=python,bash,go,ts" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+   <h3>☁️ Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" />
 </td>
 
 </tr>
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman" />
+    <h3>🧰 Tools & CI/CD</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,ansible,vscode" />
 </td>
 </tr>
 </table>
@@ -128,9 +128,9 @@
 
 <br/>
 
-### 🎵 Now Playing
+### 🎵 Playlist
 <div align="center">
-  <img src="https://open.spotify.com/user/31coo4g6o2e4js4qsxly2vurpx7y?si=d8bcc8593bf34b1b" alt="Spotify Now Playing" />
+  <img src="./spotify.png" alt="Spotify Playlist" width="500" />
 </div>
 
 ---
@@ -142,4 +142,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
 </p>
-
