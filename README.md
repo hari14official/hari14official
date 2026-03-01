@@ -98,6 +98,7 @@
 ### Statistics
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" alt="Profile Details" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" alt="Stats" />
 </div>
 
@@ -128,12 +129,13 @@
 
 <br/>
 
-### 🎵 Playlist
+### 🎵 Now Playing
 <div align="center">
-  <img src="./spotify.png" alt="Spotify Playlist" width="500" />
+  <img src="./spotify.png" alt="Spotify Playlist" width="600" />
 </div>
 
 ---
+
 
 ## ❤️ Support Me
 
