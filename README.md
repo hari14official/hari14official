@@ -16,8 +16,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_INDIA-1e1e2e?style=for-the-badge" />
-    <a href="mailto:hari14official@gmail.com"><img src="https://img.shields.io/badge/📧_HARI14OFFICIAL@GMAIL.COM-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLAB_(CLOUD/DEVOPS)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_VIGILANTE_(SECRET)-1e1e2e?style=for-the-badge" />
   </p>
