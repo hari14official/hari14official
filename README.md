@@ -1,103 +1,110 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Hari</strong>
 </h1>
-
-<h3>Cloud Engineer | AWS • Terraform • Kubernetes • Docker</h3>
-
+<h3>☁️ Cloud Engineer & Architect &nbsp;|&nbsp; Solutions Architect &nbsp;|&nbsp; AWS • Terraform • Kubernetes • Docker</h3>
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I'm a Cloud Engineer passionate about designing, building, and maintaining scalable and secure cloud infrastructures. 
-    From automating deployments to optimizing distributed systems, I ensure applications are highly available, resilient, and fast.
+    I'm a <strong>Cloud Engineer & Architect</strong> passionate about designing, building, and maintaining scalable, secure, and cost-efficient cloud infrastructures.
+    From architecting multi-cloud environments to automating deployments and optimizing distributed systems — I ensure applications are highly available, resilient, and production-ready.
   </p>
-
   <p>
-    <img src="https://img.shields.io/badge/🤝_OPEN_TO_COLLAB_(CLOUD/DEVOPS)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_VIGILANTE_(SECRET)-1e1e2e?style=for-the-badge" />
+    As a <strong>Solutions Architect</strong>, I bridge the gap between business requirements and technical execution — translating complex problems into clean, cloud-native architectures that scale with confidence.
   </p>
-
+  <p>
+    <img src="https://img.shields.io/badge/☁️_Cloud_Architect-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏗️_Solutions_Architect-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_To_Collab_(Cloud/DevOps)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
 <h3>🌐 Socials</h3>
-  
 <p align="left">
   <a href="mailto:hari14official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://discord.com/channels/harikumarm">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-
   <a href="https://wa.me/916383220503" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-
   <a href="https://github.com/hari14official">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/harx_.iz?igsh=MXRjcjUyajg4bHIzcg==">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
   <img src="https://komarev.com/ghpvc/?username=hari14official&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
-
 <br clear="all" />
 
-## 🛠️ Skills
+🧠 What I Do
+🏗️ Cloud Architecture🔄 DevOps & Automation🔐 Security & ReliabilityDesign multi-tier, fault-tolerant cloud systems on AWS, GCP & AzureCI/CD pipelines with GitHub Actions, Jenkins & ArgoCDIAM, VPC design, secret management & complianceVPC, subnetting, peering, Transit Gateway & hybrid networkingInfrastructure as Code with Terraform & AnsibleHigh availability, disaster recovery & SLA managementMicroservices & serverless architecture designContainer orchestration with Kubernetes & DockerCost optimization & FinOps practicesSolutions design aligned to business goalsGitOps workflows & release automationObservability: logging, metrics & tracing
+
+🛠️ Skills
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Languages & Scripting</h3>
-
- <img src="https://skillicons.dev/icons?i=python,bash,go,ts" />
+<img src="https://skillicons.dev/icons?i=python,bash,go,ts" />
 <br/><br/>
-
 </td>
-
 <td width="50%" align="center">
    <h3>☁️ Cloud & DevOps</h3>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux" />
 </td>
-
 </tr>
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 <br/><br/>
-
 </td>
-
 <td width="50%" align="center">
     <h3>🧰 Tools & CI/CD</h3>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,ansible,vscode" />
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🏗️ Architecture & Design</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Cloud_Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solutions_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Serverless-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Event--Driven_Design-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  </p>
+</td>
+<td width="50%" align="center">
+    <h3>🔭 Monitoring & Observability</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+    </p>
+</td>
+</tr>
 </table>
 </p>
 
-## 📊 GitHub Stats
-
-### Stars
+📊 GitHub Stats
+Stars
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari14official&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=hari14official&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
 <br/>
-
-### Statistics
+Statistics
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari14official&theme=tokyonight" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari14official&theme=tokyonight" width="400" />
@@ -107,24 +114,18 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari14official&theme=tokyonight" width="805" />
 </div>
-
 <br/>
-
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hari14official&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
-
 <br/>
-
-### 📈 Activity Graph
+📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari14official&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
-
 <br/>
-
-### 🐍 Contribution Graph
+🐍 Contribution Graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake-dark.svg">
@@ -132,18 +133,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hari14official/hari14official/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br/>
-
-### 🎵 Playlist
+🎵 Playlist
 <div align="center">
   <img src="./spotify.png" alt="Spotify Playlist" width="600" />
 </div>
 
----
-
-## ❤️ Support Me
-
+❤️ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/hari14official">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
