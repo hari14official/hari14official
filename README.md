@@ -45,7 +45,33 @@
 <br clear="all" />
 
 🧠 What I Do
-🏗️ Cloud Architecture🔄 DevOps & Automation🔐 Security & ReliabilityDesign multi-tier, fault-tolerant cloud systems on AWS, GCP & AzureCI/CD pipelines with GitHub Actions, Jenkins & ArgoCDIAM, VPC design, secret management & complianceVPC, subnetting, peering, Transit Gateway & hybrid networkingInfrastructure as Code with Terraform & AnsibleHigh availability, disaster recovery & SLA managementMicroservices & serverless architecture designContainer orchestration with Kubernetes & DockerCost optimization & FinOps practicesSolutions design aligned to business goalsGitOps workflows & release automationObservability: logging, metrics & tracing
+<table>
+<tr>
+<th align="center">🏗️ Cloud Architecture</th>
+<th align="center">🔄 DevOps & Automation</th>
+<th align="center">🔐 Security & Reliability</th>
+</tr>
+<tr>
+<td valign="top">
+✦ Design multi-tier, fault-tolerant cloud systems on AWS, GCP & Azure<br/>
+✦ VPC, subnetting, peering, Transit Gateway & hybrid networking<br/>
+✦ Microservices & serverless architecture design<br/>
+✦ Solutions design aligned to business goals
+</td>
+<td valign="top">
+✦ CI/CD pipelines with GitHub Actions, Jenkins & ArgoCD<br/>
+✦ Infrastructure as Code with Terraform & Ansible<br/>
+✦ Container orchestration with Kubernetes & Docker<br/>
+✦ GitOps workflows & release automation
+</td>
+<td valign="top">
+✦ IAM, VPC design, secret management & compliance<br/>
+✦ High availability, disaster recovery & SLA management<br/>
+✦ Cost optimization & FinOps practices<br/>
+✦ Observability: logging, metrics & tracing
+</td>
+</tr>
+</table>
 
 🛠️ Skills
 <p align="center">
@@ -75,23 +101,16 @@
 <tr>
 <td width="50%" align="center">
   <h3>🏗️ Architecture & Design</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Cloud_Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solutions_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Serverless-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-    <img src="https://img.shields.io/badge/Event--Driven_Design-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,kafka" />
+  <br/><br/>
 </td>
 <td width="50%" align="center">
     <h3>🔭 Monitoring & Observability</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
-      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-    </p>
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" />
+    <br/>
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+    <br/><br/>
 </td>
 </tr>
 </table>
